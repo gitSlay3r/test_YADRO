@@ -1,5 +1,5 @@
 Переключение между тестами и приложением осуществляется с помощью директив препроцессора RUN_TESTS и RUN_MAIN 
-Собрать проект можно с помощью команды:
+Компиляция проекта с помощью команды:
 clang++ -Iinclude -DRUN_MAIN src/main.cpp src/FileTapeDevice.cpp src/TapeSorter.cpp src/ConfigManager.cpp -o TapeSorterApp.exe
 Использование:
 .\TapeSorterApp.exe test_files/large_input_data.dat test_files/large_output_data.dat 

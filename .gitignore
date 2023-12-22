@@ -1,0 +1,16 @@
+.vs/
+*.vcxproj.user
+*.opendb
+*.sdf
+*.suo
+
+*.o
+*.obj
+*.exe
+*.dll
+*.com
+*.pdb
+*.ilk
+
+bin/
+obj/

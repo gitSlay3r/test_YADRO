@@ -1,0 +1,5 @@
+C:\Users\maksi\source\repos\test_YADRO\Debug\test_YADRO.vcxproj.CopyComplete
+C:\Users\maksi\source\repos\test_YADRO\Debug\test_YADRO.exe
+C:\Users\maksi\source\repos\test_YADRO\Debug\test_YADRO.pdb
+C:\Users\maksi\source\repos\test_YADRO\Debug\gtest.pdb
+C:\Users\maksi\source\repos\test_YADRO\Debug\gtest_main.pdb

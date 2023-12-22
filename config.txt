@@ -1,0 +1,4 @@
+readDelay=1
+writeDelay=1
+rewindDelay=1
+moveDelay=1

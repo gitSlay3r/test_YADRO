@@ -1,0 +1,8 @@
+﻿  ConfigManager.cpp
+  FileTapeDevice.cpp
+  main.cpp
+  pch.cpp
+  TapeSorter.cpp
+  test.cpp
+  Generating Code...
+  test_YADRO.vcxproj -> C:\Users\maksi\source\repos\test_YADRO\Debug\test_YADRO.exe
